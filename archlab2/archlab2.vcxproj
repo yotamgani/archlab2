@@ -61,14 +61,14 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\לימודים\סמסטר 8\מעבדה מתקדמת באריטקטורה של מחשבים\מעבדה 2\lab2\llsim.c" />
-    <ClCompile Include="..\..\..\..\Desktop\לימודים\סמסטר 8\מעבדה מתקדמת באריטקטורה של מחשבים\מעבדה 2\lab2\sp.c" />
+    <ClCompile Include="llsim.c" />
+    <ClCompile Include="sp.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Desktop\לימודים\סמסטר 8\מעבדה מתקדמת באריטקטורה של מחשבים\מעבדה 2\lab2\llsim.h" />
+    <ClInclude Include="llsim.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\Desktop\לימודים\סמסטר 8\מעבדה מתקדמת באריטקטורה של מחשבים\מעבדה 2\lab2\Makefile" />
+    <None Include="Makefile" />
   </ItemGroup>
   <ItemDefinitionGroup />
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
